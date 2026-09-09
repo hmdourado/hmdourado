@@ -5,7 +5,7 @@ I'm a Computer Engineering student at **UTFPR**, interested in using programming
 My main interests are **Machine Learning, Deep Learning, Data Science and Embedded AI**, while also developing a strong foundation in software engineering and computer systems.
 
 
-### Languages ​​and Technologies
+## Languages ​​and Technologies
 
 <div align="left">
 
