@@ -6,7 +6,7 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
 
 ---
 
-### Languages ​​and Technologies
+## Languages ​​and Technologies
 
 <div align="left">
 
