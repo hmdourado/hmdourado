@@ -109,6 +109,27 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
 <br/>
 <br/>
 
+## Connect with me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/henrique-dourado-73b84b330" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+  <a href="https://www.instagram.com/henriquequant/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+  <a href="http://lattes.cnpq.br/0430450261210538" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-0D6EFD?style=for-the-badge" alt="lattes" style="margin-bottom: 5px;" />
+</a>
+  <a href="mailto:hdourado8@alunos.utfpr.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+
+<br/>
+
 
 ## Consistency
 
