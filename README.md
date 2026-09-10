@@ -9,7 +9,7 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
 
 <div align="left">
 
-  <!-- Machine Learning & Data -->
+  
   <img
       align="left"
       alt="Python"
@@ -46,7 +46,7 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
   />
 
-  <!-- Programming -->
+  
   <img
       align="left"
       alt="C"
@@ -75,7 +75,7 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
   />
 
 
-  <!-- Databases -->
+  
   <img
       align="left"
       alt="PostgreSQL"
@@ -85,7 +85,7 @@ My main interests are **Machine Learning, Deep Learning, Data Science and Embedd
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
   />
 
-  <!-- Tools -->
+  
   <img
       align="left"
       alt="Git"
