@@ -1,8 +1,6 @@
 # Henrique Mateus Dourado
 
-Sou estudante de Engenharia de Computação na **UTFPR** e tenho interesse em utilizar programação e inteligência artificial para criar soluções para problemas do mundo real.
-
-Meus principais interesses são **Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), Ciência de Dados e IA Embarcada**, ao mesmo tempo em que desenvolvo uma base sólida em engenharia de software e sistemas computacionais.
+Sou estudante de Engenharia de Computação na **UTFPR** e tenho interesse em utilizar programação e inteligência artificial para criar soluções para problemas do mundo real. Meus principais interesses são **Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning), Ciência de Dados e IA Embarcada.**
 
 
 ## Languages ​​and Technologies
